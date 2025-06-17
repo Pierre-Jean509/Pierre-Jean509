@@ -16,4 +16,4 @@ LinkedIn: https://www.linkedin.com/in/pierre-jean-500661249/
 GitHub: Pierre-Jean509
 
 
-![Banner]![Image](https://github.com/user-attachments/assets/7b8578c8-cb3f-4ea5-9992-405430dd0ec8
+![Banner](https://github.com/user-attachments/assets/7b8578c8-cb3f-4ea5-9992-405430dd0ec8
